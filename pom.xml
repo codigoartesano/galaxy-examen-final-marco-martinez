@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cloud.csonic</groupId>
-	<artifactId>labmaven01</artifactId>
+	<artifactId>labmaven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>labmaven01</name>
+	<name>labmaven</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
